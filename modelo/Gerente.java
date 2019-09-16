@@ -7,7 +7,7 @@ package modelo;
 
 /**
  *
- * @author Matheus Henrique
+ * @author USER
  */
 public class Gerente extends Funcionario {
     private String setor;
