@@ -7,7 +7,7 @@ package modelo;
 
 /**
  *
- * @author Matheus Henrique
+ * @author USER
  */
 public class Funcionario {
     // inicialmente os ATR serão PRIVATE
